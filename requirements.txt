@@ -5,3 +5,6 @@ opencv-python
 torch
 torchvision
 torchaudio
+onnx>=1.14.0
+onnxruntime
+
