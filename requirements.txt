@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+# Note: For GPU support, please install PyTorch compatible with your CUDA version manually if not detected.
+# Visit https://pytorch.org/get-started/locally/ for the correct command.
+torch
+torchvision
+torchaudio
